@@ -6,10 +6,8 @@
 #it changes a str to a list and breaks at the space if nothing is specified
 
 numbers = input("Please input a list of 5 numbers separated by spaces: ")
-print(numbers)
 
 list1 = numbers.split()
-print(list1)
 
 int1 = list1[0]
 int2 = list1[1]

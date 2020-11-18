@@ -30,4 +30,4 @@ if inputa == e:
 elif inputa == m:
     print(middle)
 else:
-    print("I messed up, sorry.")
+    print("ERROR")
