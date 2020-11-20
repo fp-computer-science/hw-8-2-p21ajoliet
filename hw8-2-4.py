@@ -1,4 +1,5 @@
 #Author: ALJ (AMDG) 11/17/20
+
 input1 = input("Please enter a list of numbers or letters separated by spaces: ")
 print(" ")
 print("Please enter either \'middle' or \'ends' for the following question.")

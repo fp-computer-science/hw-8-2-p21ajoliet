@@ -1,4 +1,5 @@
 #Author: ALJ (AMDG) 11/17/20
+
 numbers = input("Please enter 5 digits with no separation: ")
 
 list1 = list(numbers)
